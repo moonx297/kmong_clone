@@ -9,8 +9,9 @@
 					/>
 				</div>
 				<div class="card-text">
-					<strong>제목</strong>
-					<p>내용 들어가는 자리입니다.</p>
+					<p class="nickname">nickname</p>
+					<p>로고 제작 공모전 488회우승 로고 제작 드립니다.</p>
+					<strong>10,000</strong>
 				</div>
 			</li>
 			<li>
@@ -411,5 +412,10 @@ li:nth-child(5n) {
 }
 .card-text {
 	padding: 10px;
+}
+.nickname {
+	font-size: 12px;
+	color: #999;
+	margin-bottom: 10px;
 }
 </style>
