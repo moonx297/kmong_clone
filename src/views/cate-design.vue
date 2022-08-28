@@ -30,16 +30,55 @@
 				<li>
 					<a href="#">일러스트·캐리커쳐</a>
 				</li>
+				<li>
+					<a href="#">웹툰·캐릭터·이모티콘</a>
+				</li>
+				<li>
+					<a href="#">블로그·SNS·썸네일</a>
+				</li>
+				<li>
+					<a href="#">포토샵·파일변환</a>
+				</li>
+				<li>
+					<a href="#">제품·3D프린팅</a>
+				</li>
+				<li>
+					<a href="#">공간디자인</a>
+				</li>
+				<li>
+					<a href="#">북·앨범디자인</a>
+				</li>
+				<li>
+					<a href="#">캘리그라피·폰트</a>
+				</li>
+				<li>
+					<a href="#">메타버스·NFT아트</a>
+				</li>
+				<li>
+					<a href="#">VR·AR·게임</a>
+				</li>
+				<li>
+					<a href="#">의류디자인</a>
+				</li>
+				<li>
+					<a href="#">간판·시공</a>
+				</li>
+				<li>
+					<a href="#">템플릿</a>
+				</li>
+				<li>
+					<a href="#">기타</a>
+				</li>
 			</ul>
 		</aside>
 		<main id="main">
 			<p class="page-navigation">홈>디자인</p>
 			<table class="table-text">
 				<tr>
-					<td>주말 작업 여부</td>
-					<td>주말 상담 가능</td>
-					<td>주말 작업 가능</td>
-					<td>주말 불가능</td>
+					<td align="center" onClick="location.href='#'">주말 작업 여부</td>
+					<td onClick="location.href='#'">주말 상담 가능</td>
+					<td onClick="location.href='#'">주말 작업 가능</td>
+					<td onClick="location.href='#'">주말 불가능</td>
 				</tr>
 			</table>
 			<ContentArea />
@@ -64,7 +103,9 @@ export default { components: { ContentArea } }
 }
 
 #aside h2 {
-	margin-bottom: 30px;
+	padding: 15px 0;
+	margin-bottom: 17px;
+	border-bottom: 2px solid #ffdd00;
 }
 
 #aside li {

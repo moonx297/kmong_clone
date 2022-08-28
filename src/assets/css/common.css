@@ -1,6 +1,7 @@
 @font-face {
-  font-family: 'Pretendard-Regular';
-  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-family: "Pretendard-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff")
+    format("woff");
   font-weight: 400;
   font-style: normal;
 }
@@ -9,9 +10,9 @@
   margin: 0;
   padding: 0;
   font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-  font-family: 'Pretendard-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Pretendard-Regular";
 }
 
 li {
@@ -44,16 +45,12 @@ table td {
   padding: 10px;
 }
 
-
 .el-input {
-	width: auto !important;
-	margin-right: 30px;
+  width: auto !important;
+  margin-right: 30px;
 }
 
 .el-input__inner:focus,
 .el-input__inner:hover {
-	border-color: #ffd400 !important;
+  border-color: #ffd400 !important;
 }
-
-
-
