@@ -13,6 +13,7 @@ export default { components: { ContentArea } }
 <style scoped>
 .subtitle {
 	margin-bottom: 20px;
+	margin-top: 20px;
 	font-weight: 800;
 }
 </style>

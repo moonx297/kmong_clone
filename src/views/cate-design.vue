@@ -99,7 +99,7 @@ export default { components: { ContentArea } }
 	height: 100%;
 	margin-right: 5%;
 	text-align: left;
-	padding: 30px 0;
+	/* padding: 30px 0; */
 }
 
 #aside h2 {
@@ -114,7 +114,7 @@ export default { components: { ContentArea } }
 
 #main {
 	width: 80%;
-	padding: 50px 0;
+	padding: 18px 0;
 	float: right;
 }
 
