@@ -372,6 +372,9 @@ li:nth-child(5n) {
 	display: block;
 	margin: 0 auto;
 	width: 100%;
+<<<<<<< HEAD
 	cursor: pointer;
+=======
+>>>>>>> 300603f120d95cbf563c71750ffdf2a4053421fc
 }
 </style>
