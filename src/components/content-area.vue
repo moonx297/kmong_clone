@@ -347,15 +347,12 @@ li:nth-child(5n) {
 	margin-right: 0;
 }
 .card-text {
-	padding: 10px 0;
-	cursor: pointer;
+	padding: 10px;
 }
-
 .nickname {
 	font-size: 12px;
 	color: #999;
 	margin-bottom: 10px;
-	cursor: pointer;
 }
 .won {
 	font-size: 20px;
@@ -372,9 +369,9 @@ li:nth-child(5n) {
 	display: block;
 	margin: 0 auto;
 	width: 100%;
-<<<<<<< HEAD
+}
+img,
+p {
 	cursor: pointer;
-=======
->>>>>>> 300603f120d95cbf563c71750ffdf2a4053421fc
 }
 </style>
