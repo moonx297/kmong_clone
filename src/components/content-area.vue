@@ -347,7 +347,7 @@ li:nth-child(5n) {
 	margin-right: 0;
 }
 .card-text {
-	padding: 10px;
+	padding: 10px 0;
 }
 .nickname {
 	font-size: 12px;
